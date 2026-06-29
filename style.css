@@ -13,8 +13,10 @@ h2{
 }
 
 input,select{
-    padding:8px;
-    margin:5px;
+    padding:10px;
+    border-radius:6px;
+    border:1px solid #ccc;
+    width:250px;
 }
 
 button{
