@@ -78,3 +78,9 @@ Plan your breakfast, lunch, and dinner for the entire week.
     color:#555;
     font-size:15px;
 }
+#quote{
+    font-style:italic;
+    color:#008000;
+    text-align:center;
+    margin-top:15px;
+}
