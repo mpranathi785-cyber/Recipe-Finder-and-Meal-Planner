@@ -20,3 +20,10 @@ This project helps users search recipes using available ingredients, create week
 1. Download the project.
 2. Open index.html in a web browser.
 3. Start using the application.
+## Project Status
+
+Version 1.0 Completed
+
+Developed as part of the GitHub Laboratory Assignment.
+
+Team Members contributed using GitHub branches, commits and pull requests.
