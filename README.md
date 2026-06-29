@@ -1,1 +1,22 @@
-# Recipe-Finder-and-Meal-Planner
+# Recipe Finder and Meal Planner
+
+## Project Description
+This project helps users search recipes using available ingredients, create weekly meal plans, save favorite recipes, and generate shopping lists.
+
+## Features
+- Recipe Database
+- Ingredient-based Search
+- Weekly Meal Planner
+- Favorites List
+- Shopping List Generator
+
+## Technologies Used
+- HTML
+- CSS
+- JavaScript
+- GitHub
+
+## How to Run
+1. Download the project.
+2. Open index.html in a web browser.
+3. Start using the application.
