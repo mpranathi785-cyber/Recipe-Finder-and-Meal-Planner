@@ -3,7 +3,17 @@ var recipes = {
     potato:"Potato Curry",
     egg:"Egg Curry",
     tomato:"Tomato Soup",
-    chicken:"Chicken Curry"
+    chicken:"Chicken Curry",
+    paneer:"Paneer Butter Masala",
+    pizza:"Veg Pizza",
+    burger:"Veg Burger",
+    pasta:"White Sauce Pasta",
+    dosa:"Masala Dosa",
+    idli:"Idli Sambar",
+    biryani:"Vegetable Biryani",
+    noodles:"Veg Noodles",
+    salad:"Fruit Salad",
+    juice:"Orange Juice"
 };
 
 function findRecipe(){
