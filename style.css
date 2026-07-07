@@ -6,6 +6,7 @@ body{
 
 h1{
     color:green;
+    font-size:34px;
 }
 
 h2{
@@ -13,16 +14,20 @@ h2{
 }
 
 input,select{
-    padding:8px;
-    margin:5px;
+    padding:10px;
+    border-radius:6px;
+    border:1px solid #ccc;
+    width:250px;
 }
 
 button{
-    padding:8px 15px;
-    background-color:green;
+    padding:10px 20px;
+    background-color:#28a745;
     color:white;
     border:none;
+    border-radius:8px;
     cursor:pointer;
+    font-size:16px;
 }
 
 button:hover{
@@ -31,5 +36,57 @@ button:hover{
 
 ul{
     background:white;
-    padding:10px;
+    padding:15px;
+    border-radius:10px;
+    box-shadow:0 2px 5px rgba(0,0,0,0.2);
 }
+
+#welcome{
+text-align:center;
+font-size:18px;
+color:#444;
+margin-bottom:20px;
+}
+footer{
+    background-color:green;
+    color:white;
+    text-align:center;
+    padding:12px;
+    margin-top:30px;
+    font-size:16px;
+}
+button:hover{
+    background-color:#1e7e34;
+}
+body{
+    max-width:900px;
+    margin:auto;
+    padding:20px;
+}
+h3{
+    margin-top:20px;
+}
+
+footer p{
+    margin:0;
+}
+
+<p id="mealDescription">
+Plan your breakfast, lunch, and dinner for the entire week.
+</p>
+#mealDescription{
+    color:#555;
+    font-size:15px;
+}
+#quote{
+    font-style:italic;
+    color:#008000;
+    text-align:center;
+    margin-top:15px;
+}
+<hr>
+
+<h3>About</h3>
+<p>
+Recipe Finder and Meal Planner helps users search recipes, plan meals, save favorites, and generate shopping lists.
+</p>
