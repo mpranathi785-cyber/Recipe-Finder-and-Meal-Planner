@@ -79,3 +79,5 @@ window.onload = function () {
     alert("Welcome to Recipe Finder and Meal Planner!");
 };
 console.log("Search feature is ready to use.");
+const today = new Date();
+console.log("Today's Date: " + today.toDateString());
