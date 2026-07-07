@@ -36,3 +36,7 @@ Team Members:
 - M Pranathi 
 - Swastika Reddy
 - Spoorthi V Sharma
+
+  ## Project Objective
+
+The objective of this project is to help users search recipes using ingredients, organize weekly meals, maintain favorite recipes, and generate shopping lists.
