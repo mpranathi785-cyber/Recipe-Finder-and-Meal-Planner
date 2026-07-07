@@ -100,3 +100,11 @@ footer {
 footer p {
     margin: 5px;
 }
+ul {
+    padding-left: 25px;
+}
+
+li {
+    margin: 8px 0;
+    color: #333;
+}
