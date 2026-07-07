@@ -78,3 +78,4 @@ function generateShopping(){
 window.onload = function () {
     alert("Welcome to Recipe Finder and Meal Planner!");
 };
+console.log("Search feature is ready to use.");
