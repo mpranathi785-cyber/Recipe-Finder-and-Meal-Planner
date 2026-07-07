@@ -40,3 +40,10 @@ Team Members:
   ## Project Objective
 
 The objective of this project is to help users search recipes using ingredients, organize weekly meals, maintain favorite recipes, and generate shopping lists.
+## How to Use
+
+1. Enter an ingredient.
+2. Click Search.
+3. Plan your weekly meals.
+4. Save favourite recipes.
+5. Generate the shopping list.
