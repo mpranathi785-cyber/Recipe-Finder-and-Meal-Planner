@@ -73,3 +73,8 @@ function generateShopping(){
     }
 
 }
+<hr>
+
+window.onload = function () {
+    alert("Welcome to Recipe Finder and Meal Planner!");
+};
