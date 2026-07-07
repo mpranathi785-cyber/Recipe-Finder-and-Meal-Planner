@@ -6,3 +6,9 @@
 | Swastika Reddy | A86605225295 | Testing |
 | Pushpa V | A86605225276 | Documentation |
 | Spoorthi V Sharma | A866175124105 | GitHub Management & Presentation |
+
+## Team Member 4
+
+Name: Pushpa V Gowda 
+
+Role: Testing and Documentation
