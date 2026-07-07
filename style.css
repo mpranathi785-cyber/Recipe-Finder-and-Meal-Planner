@@ -90,3 +90,13 @@ Plan your breakfast, lunch, and dinner for the entire week.
 <p>
 Recipe Finder and Meal Planner helps users search recipes, plan meals, save favorites, and generate shopping lists.
 </p>
+footer {
+    text-align: center;
+    padding: 15px;
+    background-color: #f0f0f0;
+    margin-top: 20px;
+}
+
+footer p {
+    margin: 5px;
+}
