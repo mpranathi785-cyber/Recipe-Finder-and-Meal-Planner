@@ -27,3 +27,12 @@ Version 1.0 Completed
 Developed as part of the GitHub Laboratory Assignment.
 
 Team Members contributed using GitHub branches, commits and pull requests.
+## Developer Information
+
+This project was developed as part of the Web Technology and GitHub Lab assignment.
+
+Team Members:
+- Pushpa V Gowda
+- M Pranathi 
+- Swastika Reddy
+- Spoorthi V Sharma
